@@ -1,10 +1,11 @@
-# 52136.github.io
+# welcome to 52136.github.io
 /*
-this is a blog example
+*this is a blog example
 */
 
-利用github搭建部署个人博客实践
-1、注册github账号（52136）
+lo
+li利用github搭建部署个人博客实践
+li1、注册github账号（52136）
 2、创建仓库repository（52136.github.io）。备注必须和账号名相同
 3、依次安装以下两个软件
   a)Node.js
